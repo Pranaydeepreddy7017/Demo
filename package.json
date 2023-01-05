@@ -14,5 +14,8 @@
     "@commitlint/config-conventional": "^17.3.0",
     "husky": "^8.0.3",
     "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "release-please": "^15.0.0"
   }
 }
