@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Pranaydeepreddy7017/Demo/compare/v1.1.0...v2.0.0) (2023-01-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* closes #1
+
+### Features
+
+* try breaking change ([e1da009](https://github.com/Pranaydeepreddy7017/Demo/commit/e1da009e566ddea94d55adbbf1b6c9e7d6067a70))
+* trying breaking change ([cb5a337](https://github.com/Pranaydeepreddy7017/Demo/commit/cb5a337dc59393cc6a67469bafe1476f933c1672))
+
 ## [1.1.0](https://github.com/Pranaydeepreddy7017/Demo/compare/v1.0.1...v1.1.0) (2023-01-05)
 
 
