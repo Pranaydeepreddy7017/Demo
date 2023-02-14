@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/Pranaydeepreddy7017/Demo/compare/v2.0.0...v2.1.0) (2023-02-14)
+
+
+### Features
+
+* this is new feature added ([008a145](https://github.com/Pranaydeepreddy7017/Demo/commit/008a145ba089f4c3291452b94d319f2d85e268e6))
+
 ## [2.0.0](https://github.com/Pranaydeepreddy7017/Demo/compare/v1.1.0...v2.0.0) (2023-01-05)
 
 
