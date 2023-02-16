@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Bug Fixes
 
+* hope a small fix ([bde769f](https://github.com/Pranaydeepreddy7017/Demo/commit/bde769f5d034719e5db01a074ee54a26ca4f07cf))
 * just fixed a bug ([64212a3](https://github.com/Pranaydeepreddy7017/Demo/commit/64212a3383aa745145cb281e17e46774a15576ce))
 
 ### [2.3.1](https://github.com/Pranaydeepreddy7017/Demo/compare/v2.3.0...v2.3.1) (2023-02-16)
